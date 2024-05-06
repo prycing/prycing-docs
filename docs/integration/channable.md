@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Get started with Channable
+# Channable
+
+## Getting started with Channable
 
 Welcome to the comprehensive guide on integrating with Channable using the Prycing API! In today's fast-paced e-commerce
 landscape, effective integration between platforms is paramount for seamless operations and optimal performance.
