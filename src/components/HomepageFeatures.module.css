@@ -1,11 +1,20 @@
 .features {
   display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+  justify-content: center;
+  padding: 1rem 0;
+  flex-direction: row; /* This will align the items horizontally */
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+
+.background {
+  background-color: #0C1523; /* Replace with your desired color */
+  border-radius: 10px;
+  margin: 8px;
+  width: 100%; /* This will allow the items to adjust their widths */
+  color: white;
 }

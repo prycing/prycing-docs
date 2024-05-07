@@ -67,13 +67,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Rest API',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Integration with channable',
+                href: '#',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Prycing Academy',
             items: [
               {
                 label: 'Stack Overflow',
