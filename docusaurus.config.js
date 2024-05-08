@@ -45,6 +45,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         logo: {
           alt: 'My Site Logo',
           src: 'img/prycing.svg',
+          href: 'https://prycing.eu/',
         },
         items: [
           {
