@@ -2,34 +2,35 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
+
 const FeatureList = [
     {
-        title: 'Prycing docs',
-        Svg: require('../../static/img/prycing.svg').default,
+        title: 'Phone & mail support',
+        Svg: require('../../static/img/icons/mail.svg').default,
         description: (
             <>
-                Prycing docs is the best way to find out how to use our API. We provide
-                you with all the information you need to get started.
+                We provide support via phone and mail. Our team is available to help you with any questions you may
+                have.
             </>
         ),
     },
     {
-        title: 'Integrate with Prycing',
-        Svg: require('../../static/img/prycing.svg').default,
+        title: 'Helpcenter & Docs',
+        Svg: require('../../static/img/icons/headset.svg').default,
         description: (
             <>
-                Integrate with Prycing to get the best prices for your products. We provide
-                you with all the information you need to get started.
+                Our helpcenter and documentation is always available. You can find answers to most questions here in the
+                documentation.
             </>
         ),
     },
     {
-        title: 'Placeholder',
-        Svg: require('../../static/img/prycing.svg').default,
+        title: 'Our offices',
+        Svg: require('../../static/img/icons/office.svg').default,
         description: (
             <>
-                Extend or customize your website layout by reusing React. Docusaurus can
-                be extended while reusing the same header and footer.
+                We have two offices located in the Netherlands, One in Dronten, one in Zwolle. Book an appointment on
+                the site.
             </>
         ),
     },
