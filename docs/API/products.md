@@ -23,10 +23,13 @@ Content-Type: application/json
     "special_price_from": "example",
     "special_price_to": "example",
     "cost_price": "example",
+    "crawl_frequency": "1d",
     "repricer_min": "example",
     "repricer_max": "example",
 }
 ```
+
+crawl_frequency can be "1d", "2d", "3d", "4d", "5d", "6d", "7d", "14d", "28d"
 
 ### Example response
 
