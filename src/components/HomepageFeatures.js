@@ -29,7 +29,7 @@ const FeatureList = [
         Svg: require('../../static/img/icons/office.svg').default,
         description: (
             <>
-                We have two offices located in the Netherlands, One in Dronten, one in Zwolle. Book an appointment on
+                We have two offices located in the Netherlands, one in Dronten and one in Zwolle. Book an appointment on
                 the site.
             </>
         ),
