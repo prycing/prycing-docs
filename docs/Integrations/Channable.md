@@ -74,7 +74,7 @@ duplicate products from being imported.
 
 ![](/img/Channable_step9.svg)
 
-### Step 10: 10 Click on “Save & Import”. You are now ready to use Prycing in Channable.
+### Step 10: Click on “Save & Import”. You are now ready to use Prycing in Channable.
 
 Now you are ready to use Prycing in Channable, you can click on “Save & Import” to start the import.
 ![](/img/Channable_step10.svg)
