@@ -130,3 +130,11 @@ html[data-theme='light'] .docusaurus-highlight-code-line {
         margin-bottom: 2rem;
     }
 }
+
+.navbar-main {
+    background-color: var(--ifm-navbar-background-color);
+    box-shadow: var(--ifm-navbar-shadow);
+    display: flex;
+    height: var(--ifm-navbar-height);
+    padding: var(--ifm-navbar-padding-vertical) var(--ifm-navbar-padding-horizontal);
+}
