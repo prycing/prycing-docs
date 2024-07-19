@@ -17,9 +17,9 @@
 
 
 .background {
-  background-color: #0C1523; /* Replace with your desired color */
+  background-color: #0C1523;
   border-radius: 10px;
   margin: 8px;
-  width: 100%; /* This will allow the items to adjust their widths */
+  width: 100%;
   color: white;
 }

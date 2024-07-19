@@ -3,7 +3,6 @@ import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import HomepageFeatures from '../components/HomepageFeatures';
 
-//homepage header is empty
 function HomepageHeader() {
     const {siteConfig} = useDocusaurusContext();
     return (
