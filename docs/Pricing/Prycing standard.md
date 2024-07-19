@@ -24,6 +24,6 @@ their margins and see which products are generating positive income and which ar
 - **Fast and efficient price management**: Easily manage your prices and see how they affect your margins.
 - **Run profitable campaigns**: See which products generate the most income and run profitable campaigns.
 - **Unlimited products in feed**: Add as many products as you want to your feed.
-- **Unlimited possibilities with API acces**: Use our API to get the most out of your data and integrate it with other
+- **Unlimited possibilities with API access**: Use our API to get the most out of your data and integrate it with other
   tools.
-- **Fast and efficient support**: Get help when you need it and get the most out of your data.
+- **Fast and good support**: Get help when you need it and get the most out of your data.

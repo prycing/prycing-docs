@@ -70,6 +70,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                                 label: 'Integrations',
                                 to: '/docs/Integrations/Channable',
                             },
+                            {
+                                label: 'Pricing',
+                                to: '/docs/Pricing/Prycing%20free%20trial',
+                            },
                         ],
                     },
                     {
@@ -99,7 +103,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         ],
                     },
                 ],
-                copyright: `© Copyright ${new Date().getFullYear()} Prycing.`,
+                copyright: `© Copyright ${new Date().getFullYear()} – Prycing`,
             },
             prism: {
                 theme: lightCodeTheme,

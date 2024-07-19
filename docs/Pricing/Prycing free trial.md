@@ -19,4 +19,3 @@ wich products are generating +income and which are not. You can easily manage yo
 
 - **Free support from our sales**: Get help when you need it and get the most out of your data.
 - **1 hour per month of integration support**: Get help with integrating your data with other tools.
-- **Insights to your competitors**: Get insights into your competitors and see how you can out manoeuvre them.
