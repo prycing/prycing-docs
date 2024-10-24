@@ -10,7 +10,7 @@ This package is perfect for small businesses that want to get started with keepi
 which products are generating postive income and which are not.
 implement.
 
-![](/img/standard.png)
+![](/img/Standard.png)
 
 ## What can this package do for you?
 
