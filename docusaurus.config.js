@@ -70,10 +70,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                                 label: 'Integrations',
                                 to: '/docs/Integrations/Channable',
                             },
-                            {
-                                label: 'Pricing',
-                                to: '/docs/Pricing/Prycing%20free%20trial',
-                            },
                         ],
                     },
                     {
