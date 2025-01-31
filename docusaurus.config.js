@@ -11,8 +11,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    organizationName: 'prycing', // Usually your GitHub org/user name.
+    projectName: 'prycing-docs', // Usually your repo name.
 
     presets: [
         [
@@ -22,12 +22,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+                    editUrl: 'https://github.com/prycing/prycing-docs/edit/main/',
                 },
                 blog: {
                     // Please change this to your repo.
                     editUrl:
-                        'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+                        'https://github.com/prycing/prycing-docs/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -94,7 +94,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         items: [
                             {
                                 label: 'GitHub',
-                                href: 'https://github.com/facebook/docusaurus',
+                                href: 'https://github.com/prycing/prycing-docs',
                             },
                         ],
                     },
