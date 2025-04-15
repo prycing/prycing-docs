@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import {Redirect} from '@docusaurus/router';
 import HomepageFeatures from '../components/HomepageFeatures';
 
 function HomepageHeader() {
@@ -14,14 +15,9 @@ function HomepageHeader() {
 
 export default function Home() {
     const {siteConfig} = useDocusaurusContext();
+
+    // Redirect to the docs page
     return (
-        <Layout
-            title={`${siteConfig.title} Docs`}
-            description="Description will go into a meta tag in <head />">
-            <HomepageHeader/>
-            <main>
-                <HomepageFeatures/>
-            </main>
-        </Layout>
+        <Redirect to="/docs/introduction"/>
     );
 }

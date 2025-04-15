@@ -3,38 +3,7 @@ import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
 
-const FeatureList = [
-    {
-        title: 'Phone & mail support',
-        Svg: require('../../static/img/icons/mail.svg').default,
-        description: (
-            <>
-                We provide support via phone and mail. Our team is available to help you with any questions you may
-                have.
-            </>
-        ),
-    },
-    {
-        title: 'Helpcenter & Docs',
-        Svg: require('../../static/img/icons/headset.svg').default,
-        description: (
-            <>
-                Our helpcenter and documentation is always available. You can find answers to most questions here in the
-                documentation.
-            </>
-        ),
-    },
-    {
-        title: 'Our offices',
-        Svg: require('../../static/img/icons/office.svg').default,
-        description: (
-            <>
-                We have two offices located in the Netherlands, one in Dronten and one in Zwolle. Book an appointment on
-                the site.
-            </>
-        ),
-    },
-];
+const FeatureList = [];
 
 function Feature({Svg, title, description}) {
     return (

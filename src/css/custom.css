@@ -32,6 +32,15 @@ html[data-theme='light'] .docusaurus-highlight-code-line {
     padding: var(--ifm-navbar-padding-vertical) var(--ifm-navbar-padding-horizontal);
 }
 
+.navbar-sidebar__brand {
+    background: #1e242c;
+}
+
+.navbar__toggle {
+    background: #1e242c;
+    color: white;
+}
+
 .navbar {
     background: #1e242c;
     height: 5rem;
@@ -50,7 +59,7 @@ html[data-theme='light'] .docusaurus-highlight-code-line {
 }
 
 .navbar__link--active {
-    color: #1842f7
+    color: #fff
 }
 
 .footer--dark {
