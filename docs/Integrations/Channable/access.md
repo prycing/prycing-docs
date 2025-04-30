@@ -14,8 +14,8 @@ To help you with troubleshooting and support, we recommend adding our support te
 ## Steps to Add Prycing Support
 
 1. Log in to your Channable account
-2. Click on your account name in the top right corner
-3. Select "Users" from the dropdown menu
+2. Click on "Company details" in the left-hand side menu
+3. Select "Manage access" from the submenu
 4. Click the "Invite user" button
 5. Enter the following details:
    - Email: support@prycing.eu
